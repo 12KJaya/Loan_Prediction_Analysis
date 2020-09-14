@@ -8,4 +8,4 @@ pandas,matplotlib,seaborn,scikit-learn
 
 
 # Algorithms
-Logistic Regression,Decision Tree,Random Forest,Extra Tress,Best Model Accu
+Logistic Regression,Decision Tree,Random Forest,Extra Tress
